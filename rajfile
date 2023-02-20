@@ -1,4 +1,9 @@
 hi
-this is raj fil
+<<<<<<< HEAD
+i am aparna
 this is red colour
+=======
+this is raj file
+this is raj file in new branch
+>>>>>>> new
 
